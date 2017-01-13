@@ -1,0 +1,113 @@
+#######################################
+# Syntax Coloring Map For Valutech
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PollObject	KEYWORD1
+SerialCommunication	KEYWORD1
+Button	KEYWORD1
+CapButton	KEYWORD1
+Cylinder	KEYWORD1
+StepperMotor	KEYWORD1
+Led	KEYWORD1
+IO	KEYWORD1
+DigitalIO	KEYWORD1
+DigitalInput	KEYWORD1
+DigitalOutput	KEYWORD1
+PresenceDetector	KEYWORD1
+AnalogIO	KEYWORD1
+AnalogInput	KEYWORD1
+AnalogOutput	KEYWORD2
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getPollingTime	KEYWORD2
+setPollingTime	KEYWORD2
+onPoll	KEYWORD2
+monitor	KEYWORD2
+onMessageReceived	KEYWORD2
+write	KEYWORD2
+setLineEnd	KEYWORD2
+onClick	KEYWORD2
+onDoubleClick	KEYWORD2
+onLongPress	KEYWORD2
+onPress		KEYWORD2
+setEnabled	KEYWORD2
+getEnabled	KEYWORD2
+setLongPressTime	KEYWORD2
+getLongPressTime	KEYWORD2
+turnOn	KEYWORD2
+turnOff	KEYWORD2
+toggle	KEYWORD2
+onOnState	KEYWORD2
+onOffState	KEYWORD2
+onToggle	KEYWORD2
+getCurrentState	KEYWORD2
+setTimeOn	KEYWORD2
+getTimeOn	KEYWORD2
+setTimeOff	KEYWORD2
+getTimeOff	KEYWORD2
+onTravelOnStarted	KEYWORD2
+onTravelOffStarted	KEYWORD2
+setTravelOnTime	KEYWORD2
+getTravelOnTime	KEYWORD2
+setTravelOffTime	KEYWORD2
+getTravelOffTime	KEYWORD2
+setPaused	KEYWORD2
+getPaused	KEYWORD2
+startRepetitions	KEYWORD2
+stopRepetitions	KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
+onRepetitionsCompleted	KEYWORD2
+moveTo	KEYWORD2
+setSendOutput	KEYWORD2
+getCurrentPosition	KEYWORD2
+getDestinyPosition	KEYWORD2
+setCurrentStep	KEYWORD2
+getCurrentStep	KEYWORD2
+setHome	KEYWORD2
+setData	KEYWORD2
+setPollingTime	KEYWORD2
+setMotorType	KEYWORD2
+goHome	KEYWORD2
+onMovementCompleted	KEYWORD2
+reset	KEYWORD2
+onObjectDetected	KEYWORD2
+onObjectLost	KEYWORD2
+getPin	KEYWORD2
+setValue	KEYWORD2
+setResolution	KEYWORD2
+getValue	KEYWORD2
+pulse		KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+PollObject	KEYWORD2
+SerialCommunication	KEYWORD2
+Button	KEYWORD2
+CapButton	KEYWORD2
+TwoStateOutput	KEYWORD2
+Cylinder	KEYWORD2
+StepperMotor	KEYWORD2
+Led	KEYWORD2
+IO	KEYWORD2
+DigitalIO	KEYWORD2
+DigitalInput	KEYWORD2
+DigitalOutput	KEYWORD2
+PresenceDetector	KEYWORD2
+AnalogIO	KEYWORD2
+AnalogInput	KEYWORD2
+AnalogOutput	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
